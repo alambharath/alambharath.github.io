@@ -12,7 +12,7 @@ html,body {
 }
 /*-- header --*/
 .header{
-	background:url(../images/1.jpg) no-repeat 0px 0px;
+	background:url(../images/bulb.jpg) no-repeat 0px 0px;
 	background-size: cover;
 	min-height: 680px;
 	position:relative;
