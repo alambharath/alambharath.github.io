@@ -488,7 +488,7 @@ input[type="submit"]:hover {
 	margin: 0 3em;
 }
 .icons ul li a.twitter{
-	background:url(../images/social.png) no-repeat 0px 0px;
+	background:url(../images/twitter-ios-logo) no-repeat 0px 0px;
 	width:32px;
 	height:32px;
 	display: block;
